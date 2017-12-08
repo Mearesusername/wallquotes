@@ -1,0 +1,34 @@
+.author{
+	font-style: italic;
+	font-size: 25px;
+}
+
+.quote-holder{
+	background-image: url('https://source.unsplash.com/random/800x600');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 900px;
+	color: white;
+	padding-top: 190px
+}
+
+.quote-box{
+	background-color: rgba(0, 0, 0, 0.4);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: solid;
+	border-top: solid; 
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	background: rgba(0,0,0,0.5);
+	color: white
+}
+
+.logo-image{
+	width: 105px;
+	height: 105px;
+}
